@@ -83,13 +83,13 @@ Using Cobra is easy. First, use `go get` to install the latest version
 of the library.
 
 ```
-go get -u github.com/spf13/cobra@latest
+go get -u github.com/Guaderxx/cobra@latest
 ```
 
 Next, include Cobra in your application:
 
 ```go
-import "github.com/spf13/cobra"
+import "github.com/Guaderxx/cobra"
 ```
 
 # Usage
